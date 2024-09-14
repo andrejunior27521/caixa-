@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.caixa.gov.br	TRUE	/	FALSE	1999999999	__uzma	135c623a-2695-46ad-be4c-8dc092dac999
+www.caixa.gov.br	TRUE	/	FALSE	1999999999	__uzmb	1726355626
+www.caixa.gov.br	TRUE	/	FALSE	1999999999	__uzme	1566
+www.caixa.gov.br	TRUE	/	FALSE	1999999999	__uzmc	265431397111
+www.caixa.gov.br	TRUE	/	FALSE	1999999999	__uzmd	1726355628
+www.caixa.gov.br	TRUE	/	FALSE	1999999999	SameSite	Lax
+tiktok.com	TRUE	/	FALSE	1999999999	_ttp	2m59aCv6dWOUAJEFS8P3SuxyDo1
+analytics.tiktok.com	TRUE	/	FALSE	1999999999	SameSite	None
+

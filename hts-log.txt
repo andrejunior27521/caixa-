@@ -1,0 +1,37 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 14 Sep 2024 20:14:08 at https://www.caixa.gov.br/investimentos/Paginas/default.aspx +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://www.caixa.gov.br/investimentos/Paginas/default.aspx -O1 "C:\Meus Sites\cx" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:14:59	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.caixa.gov.br/investimentos/Paginas/default.aspx)
+20:16:07	Error: 	"NOT FOUND" (404) at link https://www.caixa.gov.br/investimentos/Paginas/initstrings.js (from https://www.caixa.gov.br/investimentos/Paginas/default.aspx)
+20:16:07	Error: 	"NOT FOUND" (404) at link https://www.caixa.gov.br/investimentos/Paginas/strings.js (from https://www.caixa.gov.br/investimentos/Paginas/default.aspx)
+20:16:07	Error: 	"NOT FOUND" (404) at link https://www.caixa.gov.br/investimentos/Paginas/sp.init.js (from https://www.caixa.gov.br/investimentos/Paginas/default.aspx)
+20:16:07	Error: 	"NOT FOUND" (404) at link https://www.caixa.gov.br/investimentos/Paginas/sp.ui.dialog.js (from https://www.caixa.gov.br/investimentos/Paginas/default.aspx)
+20:16:07	Error: 	"NOT FOUND" (404) at link https://www.caixa.gov.br/investimentos/Paginas/core.js (from https://www.caixa.gov.br/investimentos/Paginas/default.aspx)
+20:16:07	Error: 	"NOT FOUND" (404) at link https://www.caixa.gov.br/investimentos/Paginas/menu.js (from https://www.caixa.gov.br/investimentos/Paginas/default.aspx)
+20:16:07	Error: 	"NOT FOUND" (404) at link https://www.caixa.gov.br/investimentos/Paginas/mQuery.js (from https://www.caixa.gov.br/investimentos/Paginas/default.aspx)
+20:16:07	Error: 	"NOT FOUND" (404) at link https://www.caixa.gov.br/investimentos/Paginas/callout.js (from https://www.caixa.gov.br/investimentos/Paginas/default.aspx)
+20:16:07	Error: 	"NOT FOUND" (404) at link https://www.caixa.gov.br/investimentos/Paginas/clienttemplates.js (from https://www.caixa.gov.br/investimentos/Paginas/default.aspx)
+20:16:07	Error: 	"NOT FOUND" (404) at link https://www.caixa.gov.br/investimentos/Paginas/sharing.js (from https://www.caixa.gov.br/investimentos/Paginas/default.aspx)
+20:16:07	Error: 	"NOT FOUND" (404) at link https://www.caixa.gov.br/investimentos/Paginas/suitelinks.js (from https://www.caixa.gov.br/investimentos/Paginas/default.aspx)
+20:16:07	Error: 	"NOT FOUND" (404) at link https://www.caixa.gov.br/investimentos/Paginas/sp.runtime.js (from https://www.caixa.gov.br/investimentos/Paginas/default.aspx)
+20:16:07	Error: 	"NOT FOUND" (404) at link https://www.caixa.gov.br/investimentos/Paginas/sp.js (from https://www.caixa.gov.br/investimentos/Paginas/default.aspx)
+20:16:07	Error: 	"NOT FOUND" (404) at link https://www.caixa.gov.br/investimentos/Paginas/followingcommon.js (from https://www.caixa.gov.br/investimentos/Paginas/default.aspx)
+20:16:07	Error: 	"NOT FOUND" (404) at link https://www.caixa.gov.br/investimentos/Paginas/sp.ui.mysitecommon.js (from https://www.caixa.gov.br/investimentos/Paginas/default.aspx)
+20:16:07	Error: 	"NOT FOUND" (404) at link https://www.caixa.gov.br/investimentos/Paginas/SP.init.js (from https://www.caixa.gov.br/investimentos/Paginas/default.aspx)
+20:16:08	Error: 	"NOT FOUND" (404) at link https://www.caixa.gov.br/investimentos/Paginas/sp.ribbon.js (from https://www.caixa.gov.br/investimentos/Paginas/default.aspx)
+20:16:08	Error: 	"NOT FOUND" (404) at link https://www.caixa.gov.br/Style Library/css/images/animated-overlay.gif (from https://www.caixa.gov.br/Style Library/css/jquery-ui.css)
+20:16:08	Error: 	"NOT FOUND" (404) at link https://www.caixa.gov.br/Style Library/css/images/ui-bg_glass_95_fef1ec_1x400.png (from https://www.caixa.gov.br/Style Library/css/jquery-ui.css)
+20:16:08	Error: 	"NOT FOUND" (404) at link https://www.caixa.gov.br/Style Library/css/images/ui-icons_888888_256x240.png (from https://www.caixa.gov.br/Style Library/css/jquery-ui.css)
+20:16:08	Error: 	"NOT FOUND" (404) at link https://www.caixa.gov.br/Style Library/css/images/ui-icons_2e83ff_256x240.png (from https://www.caixa.gov.br/Style Library/css/jquery-ui.css)
+20:16:08	Error: 	"NOT FOUND" (404) at link https://www.caixa.gov.br/Style Library/css/images/ui-icons_cd0a0a_256x240.png (from https://www.caixa.gov.br/Style Library/css/jquery-ui.css)
+20:16:08	Error: 	"NOT FOUND" (404) at link https://www.caixa.gov.br/Style Library/css/images/ui-bg_flat_0_aaaaaa_40x100.png (from https://www.caixa.gov.br/Style Library/css/jquery-ui.css)
+20:16:08	Error: 	"NOT FOUND" (404) at link https://www.caixa.gov.br/Style Library/img/acesso_conta.png (from https://www.caixa.gov.br/Style Library/css/caixa.css)
+20:16:08	Error: 	"NOT FOUND" (404) at link https://www.caixa.gov.br/Style Library/images/landing/educacao-financeira/play.png (from https://www.caixa.gov.br/Style Library/css/wp.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 0 seconds : 133 links scanned, 106 files written (4395124 bytes overall) [2696440 bytes received at 22470 bytes/sec], 2700266 bytes transferred using HTTP compression in 55 files, ratio 32%, 13.0 requests per connection
+(26 errors, 0 warnings, 0 messages)
